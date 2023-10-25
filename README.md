@@ -1,1 +1,1 @@
-Piyush Agrawal Portfolio website here!!
+Deployed this portfolio website on EC2 instance usind TERRAFORM (INFRASTRUCTURE AS A CODE) tool and implemented INBOUND AND OUTBOUND RULES IN SECURITY GROUPS AND ALSO ELB (ELASTIC LOAD BALANCER).
